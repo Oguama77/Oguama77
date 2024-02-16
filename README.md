@@ -8,7 +8,7 @@ I am a data scientist with a passion for rehabilitation engineering. My goal is 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oguamaprosperity@gmail.com](mailto:oguamaprosperity@gmail.com)
-* 🧠  I'm learning Computer vision for autonomous navigation
+* 🧠  I'm learning computer vision for autonomous navigation
 * 🤝  I'm open to collaborating on AI projects for healthcare applications
 * ⚡  I'm an aspiring decision scientist
 
