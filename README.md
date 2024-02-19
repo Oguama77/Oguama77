@@ -10,7 +10,9 @@ I am a data scientist with a passion for rehabilitation engineering. My goal is 
 * ✉️  You can contact me at [oguamaprosperity@gmail.com](mailto:oguamaprosperity@gmail.com)
 * 🧠  I'm learning computer vision for autonomous navigation
 * 🤝  I'm open to collaborating on AI projects for healthcare applications
-* ⚡  I'm an aspiring decision scientist
+* ⚡  I'm an aspiring decision scientist!
+* [799f10aae113e34c771066f2a317efe3](https://github.com/Oguama77/Oguama77/assets/97944168/c3f6fd6d-bf65-4010-91b4-557ffca043f2)
+
 
 ### Skills
 
