@@ -8,10 +8,9 @@ I am a data scientist with a passion for rehabilitation engineering. My goal is 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oguamaprosperity@gmail.com](mailto:oguamaprosperity@gmail.com)
-* 🧠  I'm learning computer vision for autonomous navigation
+* 🧠  I'm learning Computer vision for autonomous navigation
 * 🤝  I'm open to collaborating on AI projects for healthcare applications
-* ⚡  I'm an aspiring decision scientist!
-
+* ⚡  I love decision science!
 
 ### Skills
 
@@ -20,7 +19,10 @@ I am a data scientist with a passion for rehabilitation engineering. My goal is 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
 
-![799f10aae113e34c771066f2a317efe3](https://github.com/Oguama77/Oguama77/assets/97944168/78a7af72-13a7-4c6f-8215-3c388821abe9)
+![gifmaker_me](https://github.com/Oguama77/Oguama77/assets/97944168/dd3df190-ab10-434e-ab0b-2a923d9b1bf4)
+
+
+
 
 ### Socials
 
@@ -37,3 +39,4 @@ I am a data scientist with a passion for rehabilitation engineering. My goal is 
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Oguama77/CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Oguama77&repo=CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
