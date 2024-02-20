@@ -8,7 +8,7 @@ I am a data scientist with a passion for rehabilitation engineering. My goal is 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oguamaprosperity@gmail.com](mailto:oguamaprosperity@gmail.com)
-* 🧠  I'm learning Computer vision for autonomous navigation
+* 🧠  I'm learning computer vision for autonomous navigation
 * 🤝  I'm open to collaborating on AI projects for healthcare applications
 * ⚡  I love decision science!
 
@@ -18,11 +18,6 @@ I am a data scientist with a passion for rehabilitation engineering. My goal is 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
-
-![gifmaker_me](https://github.com/Oguama77/Oguama77/assets/97944168/dd3df190-ab10-434e-ab0b-2a923d9b1bf4)
-
-
-
 
 ### Socials
 
