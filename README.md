@@ -12,7 +12,8 @@ I am a data scientist with a passion for rehabilitation engineering. My goal is 
 * 🤝  I'm open to collaborating on AI projects for healthcare applications
 * ⚡  I'm an aspiring decision scientist!
 
-![446113042029201](https://github.com/Oguama77/Oguama77/assets/97944168/308b3f53-d51a-4325-b220-a6b7467c4478)
+
+![799f10aae113e34c771066f2a317efe3](https://github.com/Oguama77/Oguama77/assets/97944168/78a7af72-13a7-4c6f-8215-3c388821abe9)
 
 
 ### Skills
