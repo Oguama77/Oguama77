@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prosperity Oguama
 =========================================================================================================================================
 
-Data Scientist & Biomedical Engineer
+Data Scientist
 ------------------------------------
 
 I am a data scientist with a passion for rehabilitation engineering. My goal is to develop AI-enabled assistive technologies that will push the boundaries of what is possible and impact individuals on a personal level.
