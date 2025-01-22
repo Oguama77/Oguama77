@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 ------------------------------------
 
-I am a data scientist with a passion for rehabilitation engineering. My goal is to develop AI-enabled assistive technologies that will push the boundaries of what is possible and impact individuals on a personal level.
+I am a data scientist with a passion for AI applications in medicine. My goal is to develop AI-enabled assistive technologies that will push the boundaries of what is possible and impact individuals on a personal level.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oguamaprosperity@gmail.com](mailto:oguamaprosperity@gmail.com)
