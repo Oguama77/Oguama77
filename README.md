@@ -6,7 +6,7 @@ Data Scientist
 
 I am a data scientist with a passion for AI applications in medicine. My goal is to develop AI-enabled assistive technologies that will push the boundaries of what is possible and impact individuals on a personal level.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lisbon, Portugal
 * ✉️  You can contact me at [oguamaprosperity@gmail.com](mailto:oguamaprosperity@gmail.com)
 * 🧠  I'm learning computer vision for autonomous navigation
 * 🤝  I'm open to collaborating on AI projects for healthcare applications
