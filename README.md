@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI/ML Engineer
 ------------------------------------
 
-I am a machine learning engineer with a passion for AI applications in medicine. My goal is to develop AI-enabled assistive technologies that will push the boundaries of what is possible and impact individuals on a personal level.
+I am a machine learning engineer with a passion for applying AI to real-world problems. My goal is to develop intelligent systems that push the boundaries of what is possible and create meaningful impact at a human level.
 
 * 🌍  I'm based in Lisbon, Portugal
 * ✉️  You can contact me at [oguamaprosperity@gmail.com](mailto:oguamaprosperity@gmail.com)
 * 🧠  I'm learning computer vision for autonomous navigation
-* 🤝  I'm open to collaborating on AI projects for healthcare applications
+* 🤝  I'm open to collaborating on AI projects for applications in healthcare, finance, and transportation.
 * ⚡  I love decision science!
 
 ### Skills
